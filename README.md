@@ -1,2 +1,2 @@
 # scoreboard
-Tollee komennolla scoreboard, ja mitkä työt laitat voivat käyttää tätä.
+Komentoscoreboard, ja lisätty että työt näkevät sen scoreboardin, mitkä lisäät siihen.
