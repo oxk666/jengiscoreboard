@@ -1,2 +1,2 @@
-# scoreboard
+# jengiscoreboard
 Ohjeet filujen sisällä.
