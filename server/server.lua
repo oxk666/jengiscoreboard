@@ -1,3 +1,5 @@
+#KAIKKI MISSÄ LUKEE "JENGISI" NIIN LISÄÄ SIIHEN SINUN JENGISI NIMI (VALUE)
+
 ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
