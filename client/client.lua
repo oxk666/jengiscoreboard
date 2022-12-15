@@ -9,7 +9,7 @@ end)
 
 RegisterCommand("jengi", function()
 	local PlayerData = ESX.GetPlayerData(_source)
-	if(PlayerData.job.name == 'jengis') then #Tuohon lisää sinun jengisi nimi (value).
+	if(PlayerData.job.name == 'jengis') then --Tuohon lisää sinun jengisi nimi (value).
     	TriggerServerEvent("esx:status:jengistatus")
 	else
 		ESX.ShowNotification("Ei kuulu sulle tämmöset")
